@@ -1,0 +1,11 @@
+# gTest-minimal-example
+Minimalistic example with google test
+
+[source,bash]
+----
+$ mkdir build
+$ cd build/
+$ cmake ..
+$ make
+$ make test
+----
